@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Rrodovalhoo 😁
 
  <div>
-   <a href="https://github.com/Rrodovalhoo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rrodovalhoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rrodovalhoo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/rrodovalhoo">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rrodovalhoo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rrodovalhoo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
